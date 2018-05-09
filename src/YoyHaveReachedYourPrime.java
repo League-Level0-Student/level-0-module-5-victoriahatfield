@@ -23,4 +23,5 @@ public class YoyHaveReachedYourPrime {
 		JOptionPane.showMessageDialog(null, "Jerabadinka: " + number + " is prime You may continue");
 	}
 }
+ 
 // 27-9-3-20-15-18-9-1 7-1-20-6-5-9-12-4
